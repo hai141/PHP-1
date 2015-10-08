@@ -32,6 +32,6 @@ Vd: $_session[“dangnhap”]=1<br>
 ##Kết luận: <br>
 Vậy là đã tìm hiểu sơ lược về cookie và sesion cơ bản về thì hai loại biến này hoàn toàn giống nhau chỉ là cookie thì là biến ở clien hoạt động ở trình duyệt, session thì ở server. Biến này dùng để quản lý các phiên làm việc của một mảng nào đó chẳng hạn của 1 user. Khi bạn khai báo biến session hay cookie trong thời gian sống của nó thì ở bất kỳ trang nào trong site bạn cũng đều sử dụng được biến này. <br>
 
-
+nguồn: http://www.qhonline.info/php-can-ban/26/bai-7--khai-niem-co-ban-ve-cookie-va-session-trong-php.html
  
 
