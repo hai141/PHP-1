@@ -1,0 +1,16 @@
+<h2>Hoàng Mạnh Hải</h2>
+<br>
+<font color = 'red'> Bài 1: PHP </font>
+<hr>
+<ul> Nhập và in ra màn hình cơ bản: <br>
+<li> có 2 lệnh cơ bản để in ra màn hinh:
+<br> echo " phần cần in ra màn hình";
+<br> print "phần in ra màn hình";
+<br><h2> Chú ý sau mỗi câu lệnh cần có dấu ; </h2>
+:
+<li>Sau đây là: 1 bài căn bản
+	<ul>
+		<li> <?php
+<li> echo "<font color = 'màu cần điền'> chữ </font> ";
+<li> ?>
+<h2>Kết quả: ...
